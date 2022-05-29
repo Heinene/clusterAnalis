@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "clusterAnalis", "clusterAnalis.pyproj", "{C2BE609B-219F-4D48-BC0A-D4F0915B99D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BE609B-219F-4D48-BC0A-D4F0915B99D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BE609B-219F-4D48-BC0A-D4F0915B99D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {210312B4-0747-4F19-A765-9442A5C71BCF}
+	EndGlobalSection
+EndGlobal
